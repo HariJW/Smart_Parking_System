@@ -88,7 +88,7 @@ const RemoveVehicle = () => {
   return (
     <div className="remove-vehicle">
       <h1>Remove Your Vehicle</h1>
-      <Link to="/">
+      <Link to="Smart_Parking_System/">
         <button className="back-btn-park">Back</button>
       </Link>
       <div className="radio-btns">
