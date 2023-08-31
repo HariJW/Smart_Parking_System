@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+Smart Parking System 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introduction
+I am excited to introduce my project, the Smart Parking System, designed to solve the parking issues faced by many in our urban areas. This application utilizes modern web technologies to provide an efficient parking management solution.
 
-## Available Scripts
+Features
+1. Multi-Storied Parking
+Our system efficiently manages multi-storied parking lots. Each floor contains multiple parking slots for cars and bikes.
 
-In the project directory, you can run:
+2. Real-time Status Visualization
+Users can easily view the current status of each floor through an intuitive visual representation. This helps users quickly identify available parking spaces.
 
-### `npm start`
+3. Parking Availability Check
+The app enables users to check the availability of parking spaces for bikes and cars in real-time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Secure and Persistent Data Storage
+The application securely stores data using local storage. This ensures that the parking data remains intact even after closing the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5. Responsive Design
+The app is fully responsive, allowing users to access it seamlessly on various devices, including desktops, tablets, and smartphones.
 
-### `npm test`
+Usage
+Visit the live app: Smart Parking System : https://harijw.github.io/Smart_Parking_System/
+Explore the visual representation of parking slots on each floor.
+Check parking availability for bikes and cars.
+Park your vehicle by selecting a suitable slot.
+Remove your vehicle from the slot, and the app will calculate and display the parking fare.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+GitHub Repository
+The source code for this project is available on GitHub: https://github.com/HariJW/Smart_Parking_System
 
-### `npm run build`
+Feel free to explore the code and provide any feedback or suggestions!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Conclusion
+The Smart Parking System aims to simplify parking management, enhance user experience, and contribute to a more organized parking infrastructure. I hope you find this application useful and insightful.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For any inquiries or collaboration opportunities, please don't hesitate to contact me at harshwaychal936@gmail.com.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Thank you for your time and interest!
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Best regards,
+Harsh Waychal
