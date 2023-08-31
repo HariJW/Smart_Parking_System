@@ -11,17 +11,17 @@ function Dashboard() {
       </div>
 
       <div className="dashboard-btn-section">
-        <Link to="/Smart_Parking_System/parking-status">
+        <Link to="/parking-status">
           <button className="dashboard-btn">Show All Parking Status</button>
         </Link>
         <br />
         <br />
-        <Link to="/Smart_Parking_System/park-vehicle">
+        <Link to="/park-vehicle">
           <button className="dashboard-btn ">Park Your Vehicle</button>
         </Link>
         <br />
         <br />
-        <Link to="/Smart_Parking_System/remove-vehicle">
+        <Link to="/remove-vehicle">
           <button className="dashboard-btn ">Remove Your Vehicle</button>
         </Link>
       </div>
