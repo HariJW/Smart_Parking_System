@@ -61,7 +61,7 @@ const ParkVehicle = () => {
   return (
     <div className="park-vehicle">
       <h1>Park Your Vehicle</h1>
-      <Link to="Smart_Parking_System/">
+      <Link to="/Smart_Parking_System">
         <button className="back-btn-park">Back</button>
       </Link>
       <div className="radio-btns">
