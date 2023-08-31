@@ -12,10 +12,10 @@ function App() {
     <Router>
       <div className="app">
         <Routes>
-          <Route path="/" element={<Dashboard />} />
-          <Route path="/parking-status" element={<ParkingStatus />} />
-          <Route path="/park-vehicle" element={<ParkVehicle />} />
-          <Route path="/remove-vehicle" element={<RemoveVehicle />} />
+          <Route path="Smart_Parking_System/" element={<Dashboard />} />
+          <Route path="Smart_Parking_System/parking-status" element={<ParkingStatus />} />
+          <Route path="Smart_Parking_System/park-vehicle" element={<ParkVehicle />} />
+          <Route path="Smart_Parking_System/remove-vehicle" element={<RemoveVehicle />} />
         </Routes>
       </div>
     </Router>
